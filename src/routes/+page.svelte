@@ -79,7 +79,9 @@
 
 <main>
 	<header class="site-header">
-		<a class="wordmark" href="#top" aria-label="Veritas News home">Ve<span>.</span></a>
+		<a class="header-logo" href="#top" aria-label="Veritas News home">
+			<img src="/logo.svg" alt="" />
+		</a>
 		<nav class="header-nav" aria-label="Primary navigation">
 			<a href="#how">How it works</a>
 			<a href="#connect">Event graph</a>

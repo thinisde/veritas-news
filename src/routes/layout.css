@@ -95,6 +95,22 @@ a {
 .wordmark span {
 	color: var(--brand);
 }
+.header-logo {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	width: 56px;
+	height: 56px;
+}
+.header-logo img {
+	position: absolute;
+	top: -20px;
+	left: -20px;
+	display: block;
+	width: 96px;
+	height: 96px;
+	max-width: none;
+}
 .header-nav {
 	display: flex;
 	gap: 32px;

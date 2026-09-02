@@ -1,0 +1,14 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Veritas News foreground for light appearance">
+  <!-- Transparent canvas: align over veritas-logo-background-light.svg. -->
+  <path d="M250 326 L374 292 L524 653 L496 808 L448 755 L286 380 Z" fill="#0B0C10" opacity="0.12"/>
+  <path d="M630 254 L780 294 L556 760 L496 808 L476 655 Z" fill="#0B0C10" opacity="0.14"/>
+  <path d="M250 304 L374 270 L524 631 L496 786 L448 733 L286 358 Z" fill="#17181D"/>
+  <path d="M250 304 L374 270 L352 331 L270 352 Z" fill="#3A3C44"/>
+  <path d="M286 358 L448 733 L496 786 L470 652 L314 337 Z" fill="#25272E"/>
+  <path d="M630 232 L780 272 L556 738 L496 786 L476 633 Z" fill="#E53935"/>
+  <path d="M630 232 L780 272 L704 318 L646 291 Z" fill="#FF665E"/>
+  <path d="M556 738 L496 786 L476 633 L524 631 Z" fill="#B71C1C"/>
+  <path d="M630 232 L646 291 L524 631 L476 633 Z" fill="#F04A42"/>
+  <path d="M374 270 L524 631 L516 666 L359 286 Z" fill="#FFFFFF" opacity="0.16"/>
+  <path d="M780 272 L556 738 L535 754 L760 267 Z" fill="#FFFFFF" opacity="0.18"/>
+</svg>
